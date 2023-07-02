@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1 – Method hiding and overriding", "OBJECT-ORIENTED-PRORAMMING-1x2-Lab-4\Exercise 1 – Method hiding and overriding.csproj", "{FA340096-79F2-4308-B71C-9B81F0EE1226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3 – Implicit & explicit casting", "Exercise 3 – Implicit & explicit casting\Exercise 3 – Implicit & explicit casting.csproj", "{06A6F4B1-116E-4DDB-BF64-C973BAB78620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4 – Arithmetic operators overloading", "Exercise 4 – Arithmetic operators overloading\Exercise 4 – Arithmetic operators overloading.csproj", "{25C3996A-1988-49E1-A782-CB7A330D6DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 5 – Relational operators overloading. IEquatable interface", "Exercise 5 – Relational operators overloading. IEquatable interface\Exercise 5 – Relational operators overloading. IEquatable interface.csproj", "{F67B4D77-96C8-4272-AD56-AE41172E7633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 8 – IDisposable interface", "Exercise 8 – IDisposable interface\Exercise 8 – IDisposable interface.csproj", "{11A44BC8-D759-44E4-8FF8-809154AF5D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA340096-79F2-4308-B71C-9B81F0EE1226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA340096-79F2-4308-B71C-9B81F0EE1226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA340096-79F2-4308-B71C-9B81F0EE1226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA340096-79F2-4308-B71C-9B81F0EE1226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A6F4B1-116E-4DDB-BF64-C973BAB78620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A6F4B1-116E-4DDB-BF64-C973BAB78620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A6F4B1-116E-4DDB-BF64-C973BAB78620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A6F4B1-116E-4DDB-BF64-C973BAB78620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C3996A-1988-49E1-A782-CB7A330D6DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C3996A-1988-49E1-A782-CB7A330D6DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C3996A-1988-49E1-A782-CB7A330D6DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C3996A-1988-49E1-A782-CB7A330D6DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67B4D77-96C8-4272-AD56-AE41172E7633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67B4D77-96C8-4272-AD56-AE41172E7633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67B4D77-96C8-4272-AD56-AE41172E7633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67B4D77-96C8-4272-AD56-AE41172E7633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A44BC8-D759-44E4-8FF8-809154AF5D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A44BC8-D759-44E4-8FF8-809154AF5D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A44BC8-D759-44E4-8FF8-809154AF5D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A44BC8-D759-44E4-8FF8-809154AF5D99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {283A17EB-6811-4C5B-B211-B7D4C1DDA153}
+	EndGlobalSection
+EndGlobal
